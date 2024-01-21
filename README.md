@@ -14,7 +14,7 @@ ACC Toolkit is developed using the Vue.js 2 framework.
 
 ### Project setup
 
-Project is currently configured to use Node version <=16
+Project is has been updated to use later versions of Node. v16+
 
 ```bash
 # install dependencies
@@ -30,5 +30,3 @@ npm run build
 ### Customise Vue configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-test
