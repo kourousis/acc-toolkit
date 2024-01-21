@@ -94,7 +94,7 @@
                     min="-40"
                     max="40"
                     :value="data.item.ballast" 
-                    @change="onPropertyChange(data.item, 'ballast', $event, true)" />
+                    @change="onPropertyChange(data.item, 'ballastKg', $event, true)" />
                   <b-input-group-append>
                     <b-button 
                       v-if="data.item.ballast"
